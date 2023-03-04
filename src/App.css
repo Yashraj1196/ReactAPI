@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.box{
+  border: 2px solid #A35709;
+  height: 20vh;
+}
